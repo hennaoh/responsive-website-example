@@ -52,7 +52,7 @@ So far this is what it looks like:
 - Figure out the proper size and centering for the 'Add to Cart' button.
 - Add interactive elements (_hover_ and _focus_).
 - Figure out why `src : local()` doesn't work even though I have Montserrat installed.
-
+- Make sure the fonts show up (`@font-face` does not seem to be a good idea anymore). 
 
 ### Resources
 
