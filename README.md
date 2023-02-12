@@ -33,7 +33,7 @@ So far this is what it looks like:
 ### Links
 
 - [Solution](https://github.com/hennaoh/responsive-website-example)
-- [Preview](https://your-live-site-url.com)
+- [Preview](https://hennaoh.github.io)
 
 ## My process
 
