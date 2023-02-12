@@ -29,9 +29,7 @@ Users should be able to:
 So far this is what it looks like:
 
 - Desktop: ![](./images/desktop-screenshot.png)
-
 - Mobile (using Firefox's Responsive Design Mode, Samsung Galaxy S20): ![](./images/mobile-screenshot.png)
-
 ### Links
 
 - [Solution](https://github.com/hennaoh/responsive-website-example)
